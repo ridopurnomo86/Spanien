@@ -5,14 +5,16 @@ import './App.css'
 import {
   BrowserRouter as Router, Route, Switch,
 } from 'react-router-dom'
-import loadable from '@loadable/component'
+import {
+  lazy,
+} from '@loadable/component'
 import PulseLoading from './components/atoms/PulseLoading'
 import Navbar from './containers/organism/Navbar'
 import Footer from './containers/organism/Footer'
 
-const LandingPage = loadable(() => import('./containers/pages/LandingPage'))
-const AboutPage = loadable(() => import('./containers/pages/AboutPage'))
-const ProductPage = loadable(() => import('./containers/pages/ProductPage'))
+const LandingPage = lazy(() => import('./containers/pages/LandingPage'))
+const AboutPage = lazy(() => import('./containers/pages/AboutPage'))
+const ProductPage = lazy(() => import('./containers/pages/ProductPage'))
 
 function App() {
   return (
