@@ -1,0 +1,86 @@
+{
+    "recent": [
+        {
+            "id": 1,
+            "price": 300000,
+            "title": "Brown Concrete Building",
+            "author": "Tessa Wilson",
+            "image": "https://source.unsplash.com/MTSILZYVcdw/1600x900",
+            "address": "4077 Horseshoe Lane",
+            "additional": {
+                "bedroom": 3,
+                "bathroom": 3
+            }
+        },
+        {
+            "id": 2,
+            "price": 240000,
+            "title": "White Building Blue Sky",
+            "author": "Raplh Kayden",
+            "image": "https://source.unsplash.com/i4FmWlhMpro/1600x900",
+            "address": "149 Filbert Street",
+            "additional": {
+                "bedroom": 4,
+                "bathroom": 4
+            }
+        },
+        {
+            "id": 3,
+            "price": 350000,
+            "title": "Pink Concrete And Palm",
+            "author": "Santony Smith",
+            "image": "https://source.unsplash.com/h0x8E4mtLNw/1600x900",
+            "address": "2138 Highland View Drive",
+            "additional": {
+                "bedroom": 4,
+                "bathroom": 2
+            }
+        },
+        {
+            "id": 4,
+            "price": 245000,
+            "title": "Red Palm with Japanese Concept",
+            "author": "Note Thanun",
+            "image": "https://source.unsplash.com/HkA1kW97KK0/1600x900",
+            "address": "3235 Elk Rd Little",
+            "additional": {
+                "bedroom": 4,
+                "bathroom": 3
+            }
+        },
+        {
+            "id": 5,
+            "price": 360000,
+            "title": "Beautiful House Medium Concept",
+            "author": "Aaron Smith",
+            "image": "https://source.unsplash.com/avvRANuWKkQ/1600x900",
+            "address": "3608 Emily Drive",
+            "additional": {
+                "bedroom": 2,
+                "bathroom": 2
+            }
+        },
+        {
+            "id": 6,
+            "price": 360000,
+            "title": "Old Fashion",
+            "author": "Roger Starnes",
+            "image": "https://source.unsplash.com/BZJv5I0NDNw/1600x900",
+            "address": "54 Traction Street",
+            "additional": {
+                "bedroom": 4,
+                "bathroom": 4
+            }
+        }
+    ],
+    "blog": [
+        {
+            "link": "https://www.roomsketcher.com/blog/tips-for-selling-your-home/",
+            "title": "7 Essential Tips for Selling your Home"
+        },
+        {
+            "link": "https://www.thehouseshop.com/property-blog/things-to-do-to-get-the-most-value-when-selling-your-home/",
+            "title": "Things to Do to Get the Most Value When Selling Your Home"
+        }
+    ]
+}
