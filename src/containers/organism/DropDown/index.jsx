@@ -7,7 +7,7 @@ const DropDown = ({
 }) => (
   <>
     {
-      open ? (<Menu translate="0" />) : (<Menu translate="full" />)
+      open ? (<Menu translate />) : (<Menu translate={false} />)
     }
   </>
 )
