@@ -7,7 +7,7 @@ import React from 'react'
 // } from '../../../../../components/atoms/Skeleton'
 
 const SectionImage = () => (
-  <div className="w-full max-w-full max-h-full md:w-6/12">
+  <div className="w-full max-w-full max-h-full lg:w-6/12 mb-12">
     <img src="https://source.unsplash.com/wR11KBaB86U" alt="" className="rounded-md shadow-sm block" />
   </div>
 )

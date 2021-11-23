@@ -63,7 +63,7 @@ const Navbar = () => {
         <div className="r-side flex-row items-center flex md:flex sm:hidden xs:hidden">
           <Links direction="about">About</Links>
           <Links direction="product">Product</Links>
-          <ButtonLink direction="getstarted" size="md" bgColor="secondary">Get Started</ButtonLink>
+          <ButtonLink direction="getstarted">Get Started</ButtonLink>
         </div>
       </div>
     </div>

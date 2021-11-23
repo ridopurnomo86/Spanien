@@ -14,7 +14,7 @@ const Menu = ({
       >
         <div className="flex flex-col items-center space-y-8 w-full mt-4">
           <Logo size="LogoSecondary" />
-          <ButtonLink direction="getstarted" size="md" bgColor="secondary">Get Started</ButtonLink>
+          <ButtonLink direction="getstarted">Get Started</ButtonLink>
           <Links direction="product">Product</Links>
           <Links direction="about">About</Links>
         </div>
@@ -25,7 +25,7 @@ const Menu = ({
       >
         <div className="flex flex-col items-center space-y-8 w-full mt-4">
           <Logo size="LogoSecondary" />
-          <ButtonLink direction="getstarted" size="md" bgColor="secondary">Get Started</ButtonLink>
+          <ButtonLink direction="getstarted">Get Started</ButtonLink>
           <Links direction="product">Product</Links>
           <Links direction="about">About</Links>
         </div>
